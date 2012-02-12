@@ -18,7 +18,7 @@ requirements:
  * low cost
  * ease of assembly and prototyping (widely available through hole components only & simple programming interface for downloading firmware)
  * open-end SW interface with documented API for easy integration into debuggers and new standalone tools
- * easy SW migration under Linux {not quite there yet}
+ * easy SW migration under Linux {not quite there yet, these files are for Windows only}
  * support for at least one widely used debugger
  * modern and widely available interface for communicating with the computer (USB)
  * wide range of target MCU supply voltage (at least from 3.3V to 5V)
@@ -30,6 +30,12 @@ I should also mention that the SW is open source. David claimed to certainly not
 ### Status
 
 This is from materials I have found on the Internet in the public domain and I am posting them here on github.com as a repository for this GPL licensed open source hardware project originally created by David Malík in 2005.
+
+I make no claim to author any part of this software or hardware, I only assembled it in one place for anyone needing a simple to make at home BDM pod that is supported by the Hi-Wave [(c) Freescale] debugger which is part of the CodeWarrior for HCS12(X) Microcontrollers (Classic) [(c) Freescale] which you can download from:
+
+ http://cache.freescale.com/lgfiles/devsuites/HC12/CW_HC12_v5.1_SPECIAL.exe?fpsp=1&WT_TYPE=IDE%20-%20Debug,%20Compile%20and%20Build%20Tools&WT_VENDOR=FREESCALE&WT_FILE_FORMAT=exe&WT_ASSET=Downloads&sr=3
+
+AG 02/12/2012
 
 ### Changes
 
