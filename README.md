@@ -35,6 +35,9 @@ I make no claim to author any part of this software or hardware, I only assemble
 
  http://cache.freescale.com/lgfiles/devsuites/HC12/CW_HC12_v5.1_SPECIAL.exe?fpsp=1&WT_TYPE=IDE%20-%20Debug,%20Compile%20and%20Build%20Tools&WT_VENDOR=FREESCALE&WT_FILE_FORMAT=exe&WT_ASSET=Downloads&sr=3
 
+available as a bit torrent here: http://burnbit.com/download/233769/CW_HC12_v5_1_SPECIAL_exe
+
+
 You might also want to download PE Micro's free Unsecure-12 utility for the HCS12(X) MCUs in case you get yours stuck in a Secured state. You can download it here after you register for a free account:
 
 https://www.pemicro.com/login.cfm?from_url=/downloads/download_file.cfm?download_id=16
